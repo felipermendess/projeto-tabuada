@@ -15,7 +15,7 @@ Programa de tabuada desenvolvido com <strong>HTML, CSS e JavaScript. </strong> D
 - Acessar o link.
 
 ## Implantar 
-Link do projeto: 
+Link do projeto: https://felipermendess.github.io/projeto-tabuada/
 
 ## Minhas Redes
 Meu linkedin: https://www.linkedin.com/in/felipermendess/ <br>
